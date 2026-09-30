@@ -1,0 +1,59 @@
+﻿CustomerFeedback,Sentiment,Theme,MatchCheck
+Bill amount is too high compared to other providers.,Negative,Billing/Price,1
+Bill amount is too high compared to other providers. Please fix this soon.,Negative,Billing/Price,1
+Bill amount is too high compared to other providers. Very disappointed.,Negative,Billing/Price,1
+Bills are clear and payment is easy with UPI.,Positive,Billing/Price,1
+Bills are clear and payment is easy with UPI. Recommended!,Positive,Billing/Price,1
+Bills are clear and payment is easy with UPI. Thanks team.,Positive,Billing/Price,1
+Considering switching to another provider.,Negative,Overall Experience,1
+Considering switching to another provider. Please fix this soon.,Negative,Overall Experience,1
+Considering switching to another provider. Very disappointed.,Negative,Overall Experience,1
+Customer support never resolves my complaint on the first call.,Negative,Customer Support,1
+Customer support never resolves my complaint on the first call. Please fix this soon.,Negative,Customer Support,1
+Customer support never resolves my complaint on the first call. Very disappointed.,Negative,Customer Support,1
+Got charged twice this month and the refund took very long.,Negative,Billing/Price,1
+Got charged twice this month and the refund took very long. Please fix this soon.,Negative,Billing/Price,1
+Got charged twice this month and the refund took very long. Very disappointed.,Negative,Billing/Price,1
+"Great speed for the price, happy with the plan.",Positive,Network/Speed,1
+"Great speed for the price, happy with the plan. Recommended!",Positive,Network/Speed,1
+"Great speed for the price, happy with the plan. Thanks team.",Positive,Network/Speed,1
+Installation was quick and the technician was polite.,Positive,Installation,1
+Installation was quick and the technician was polite. Recommended!,Positive,Installation,1
+Installation was quick and the technician was polite. Thanks team.,Positive,Installation,1
+"Installation was smooth, but the bill is confusing.",Neutral,Billing/Price,1
+"Installation was smooth, but the bill is confusing. Hope it improves.",Neutral,Billing/Price,1
+Internet keeps disconnecting every evening.,Negative,Network/Speed,1
+Internet keeps disconnecting every evening. Please fix this soon.,Negative,Network/Speed,1
+Internet keeps disconnecting every evening. Very disappointed.,Negative,Network/Speed,1
+OTT bundle is excellent value.,Positive,OTT Content,1
+OTT bundle is excellent value. Recommended!,Positive,OTT Content,1
+OTT bundle is excellent value. Thanks team.,Positive,OTT Content,1
+OTT bundle is not worth the extra money.,Negative,OTT Content,1
+OTT bundle is not worth the extra money. Please fix this soon.,Negative,OTT Content,1
+OTT bundle is not worth the extra money. Very disappointed.,Negative,OTT Content,1
+Outage lasted two days with no proper update.,Negative,Network/Speed,1
+Outage lasted two days with no proper update. Please fix this soon.,Negative,Network/Speed,1
+Outage lasted two days with no proper update. Very disappointed.,Negative,Network/Speed,1
+Pricing is fair but not cheap.,Neutral,Billing/Price,1
+Pricing is fair but not cheap. Hope it improves.,Neutral,Billing/Price,1
+"Router needs frequent restarts, very frustrating.",Negative,Network/Speed,1
+"Router needs frequent restarts, very frustrating. Please fix this soon.",Negative,Network/Speed,1
+"Router needs frequent restarts, very frustrating. Very disappointed.",Negative,Network/Speed,1
+"Service is okay, nothing special.",Neutral,Overall Experience,1
+"Service is okay, nothing special. Hope it improves.",Neutral,Overall Experience,1
+Speed is fine most days but drops sometimes.,Neutral,Network/Speed,1
+Speed is fine most days but drops sometimes. Hope it improves.,Neutral,Network/Speed,1
+Speed is much lower than what I am paying for.,Negative,Network/Speed,1
+Speed is much lower than what I am paying for. Please fix this soon.,Negative,Network/Speed,1
+Speed is much lower than what I am paying for. Very disappointed.,Negative,Network/Speed,1
+Support is average and the wait time is long.,Negative,Customer Support,1
+Support is average and the wait time is long. Hope it improves.,Negative,Customer Support,1
+Support team resolved my issue quickly.,Positive,Customer Support,1
+Support team resolved my issue quickly. Recommended!,Positive,Customer Support,1
+Support team resolved my issue quickly. Thanks team.,Positive,Customer Support,1
+Technician visit was delayed by three days.,Negative,Installation,1
+Technician visit was delayed by three days. Please fix this soon.,Negative,Installation,1
+Technician visit was delayed by three days. Very disappointed.,Negative,Installation,1
+"Very stable connection, works great for video calls.",Positive,Network/Speed,1
+"Very stable connection, works great for video calls. Recommended!",Positive,Network/Speed,1
+"Very stable connection, works great for video calls. Thanks team.",Positive,Network/Speed,1
